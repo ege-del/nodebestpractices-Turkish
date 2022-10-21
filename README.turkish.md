@@ -37,7 +37,7 @@ Farklı bir dilde okuyun: [![CN](./assets/flags/CN.png)**CN**](./README.chinese.
 
 <br/><br/>
 
-# Welcome! 3 Things You Ought To Know First
+# Hoş geldin! İlk Önce Bilmeniz Gereken 3 Şey
 
 **1. You are reading dozens of the best Node.js articles -** this repository is a summary and curation of the top-ranked content on Node.js best practices, as well as content written here by collaborators
 
