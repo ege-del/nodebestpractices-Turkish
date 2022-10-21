@@ -25,11 +25,11 @@ Farklı bir dilde okuyun: [![CN](./assets/flags/CN.png)**CN**](./README.chinese.
 ## 🚀 We have an [official Node.js starter - Practica.js](https://github.com/practicajs/practica). Use it to generate a new solution skeleton with all the practices baked inside. Or just it to learn by code examples
 <br/>
 
-# Latest Best Practices and News
+# En Son En İyi Uygulamalar ve Haberler
 
-- **✨ 80,000 stars**: Blushing, surprised and proud!
+- **✨ 80,000 stars**: Kızarmış, şaşırmış ve gururluyuz!
 
-- **🔖 New menu and tags**: Our menu is collapsible now and includes `#tags`. New visitors can read `#strategic` items first. Returning visitors can focus on `#new` content. Seniors can filter for `#advanced` items. Courtesy of the one and only [Rubek Joshi](https://github.com/rubek-joshi)
+- Menümüz artık katlanabilir ve `#tags` içerir. Yeni ziyaretçiler önce `#stratejik` öğeleri okuyabilir. Geri gelen ziyaretçiler `#yeni` içeriğe odaklanabilir. Yaşlılar `#gelişmiş` öğeleri filtreleyebilir. Biricik [Rubek Joshi](https://github.com/rubek-joshi) sayesinde.
 
 - **👨‍👩‍👧‍👦 New family member!**: A new repository joins our family - [Node.js Integration Tests Best Practices ✨](https://github.com/testjavascript/nodejs-integration-tests-best-practices). It includes 40+ best practices for writing awesome and performant Node.js component tests
 
